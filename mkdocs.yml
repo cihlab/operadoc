@@ -2,7 +2,6 @@ site_name: OPERA Project
 
 nav:
 - Home: 'index.md'
-    - Why OPERA: 'whyopera.md'
 - About: 'about.md'
 
 theme: readthedocs
