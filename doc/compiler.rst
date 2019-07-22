@@ -1,5 +1,0 @@
-====================
-RAIL Compiler
-====================
-
-Under Construction
