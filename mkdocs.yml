@@ -1,7 +1,16 @@
 site_name: OPERA Project
 
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - def_list
+
 nav:
 - Home: 'index.md'
 - About: 'about.md'
 
 theme: readthedocs
+
+plugins:
+    - search
