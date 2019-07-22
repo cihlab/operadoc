@@ -1,8 +1,5 @@
 # OPERA: Open source Power Efficient SoCs with RISC-V and AI accelerators
-
-The project aims at low power SoC implementations for AIoT and other intelligient hardwares.
-
-## Why open source ?
+# 面向RISC-V和智能加速器的高效开源SoC
 
 过去，所有的成功的商业化芯片，销量都在10KK这个数量级以上，由此，单一芯片设计导致的NRE（一次性工程费用）往往会以极小的量分摊到每颗芯片上。
 而未来，随着市场细分，碎片化的使得未来的芯片可能只有100K的销量，这这个数量级想，NRE成为芯片的重要成本。此时，降低NRE的手段是非常重要的。在这一愿景下，开源设计成为了未来芯片设计场景的重要基石。过去几年，以RISC-V为代表的开源处理器不断涌现。同时，我们也认为以AI加速器为代表的非“标准件”是更值得关注的开源项目。
